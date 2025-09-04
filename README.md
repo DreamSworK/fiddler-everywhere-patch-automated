@@ -14,6 +14,11 @@ This's the guide for applying patch automatically.
 
 ## Feature Updates
 > [!TIP]
+> Patching is even faster.
+>  - Previously &nbsp;&nbsp;&nbsp;:&nbsp;2m 25s
+>  - Now &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;1m 30s
+
+> [!TIP]
 > Now supports changing patch server port (Useful if port conflitcts encountered)
 
 > [!TIP]
